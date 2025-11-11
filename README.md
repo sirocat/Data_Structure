@@ -30,5 +30,6 @@ int main(){
 
 
 
-![image]({https://github.com/user-attachments/assets/f4a37b24-836d-4ea8-b795-74ded3ced407})
+![image]({https://github.com/user-attachments/assets/f4a37b24-836d-4ea8-b795-74ded3ced407.png})
+
 
